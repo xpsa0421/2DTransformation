@@ -5,3 +5,6 @@
 
 # Third party
 /thirdparty/
+
+# Output
+/out/

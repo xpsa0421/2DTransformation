@@ -1,0 +1,10 @@
+# ninja log v5
+4	443	7182231078197935	CMakeFiles/Main.dir/thirdparty/glad/src/glad.c.obj	ac0e8f4fdbeea45
+15	538	7182231079187424	CMakeFiles/Main.dir/code.cpp.obj	b5e464e593af5245
+10	541	7182231079187424	CMakeFiles/Main.dir/main.cpp.obj	5966b831434531cd
+541	813	7182231081763856	Main.exe	5d0b42cb1ca0344d
+4	15	0	clean	8c45b54705a541e8
+23	1219	7182231544441993	CMakeFiles/Main.dir/code.cpp.obj	b5e464e593af5245
+18	1222	7182231544472296	CMakeFiles/Main.dir/main.cpp.obj	5966b831434531cd
+12	1487	7182231547102678	CMakeFiles/Main.dir/thirdparty/glad/src/glad.c.obj	ac0e8f4fdbeea45
+1487	1649	7182231548387940	Main.exe	5d0b42cb1ca0344d
